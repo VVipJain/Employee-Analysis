@@ -14,7 +14,7 @@ ANALYSIS -> The analysis is divided into several sections:
 * Demographic Analysis: Exploring the demographic composition of the workforce, including age, gender, and education.
   
 * Performance Analysis: Analyzing employee performance scores across different departments and job titles.
-  
+
 * Salary Analysis: Examining salary distribution and identifying trends related to compensation.
   
 * Retention Analysis: Investigating employee retention rates and identifying factors that may influence turnover.
